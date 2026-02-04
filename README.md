@@ -18,6 +18,8 @@ It handles all file extensions, resolves name conflicts automatically, and provi
 - Cross-platform: Windows, Linux, macOS  
 - No ads, no tracking, no data sent anywhere  
 
+<img width="1571" height="317" alt="FileOrganizer" src="https://github.com/user-attachments/assets/ca233b65-b733-4cb0-a39c-321e516b1b8e" />
+
 ---
 
 ## 🛠️ Technology
@@ -48,3 +50,5 @@ All operations are performed in-place, and name collisions are handled automatic
 
 ## ❤️ Support the project
 If you enjoy this project and want to support development, you can make a donation here: https://www.paypal.com/paypalme/EnricoArama
+
+
